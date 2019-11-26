@@ -9,13 +9,3 @@ one:
   refresh_token: MyString
   expires_at: 2019-11-24 15:48:20
   auth: MyText
-
-two:
-  user: two
-  provider: MyString
-  uid: MyString
-  access_token: MyString
-  access_token_secret: MyString
-  refresh_token: MyString
-  expires_at: 2019-11-24 15:48:20
-  auth: MyText
